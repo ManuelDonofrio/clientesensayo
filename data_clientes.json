@@ -1,0 +1,47 @@
+{
+    "Clientes":[
+        {
+            "cliente" : "Poggi Alejandro",
+            "direccion" : "Chicago 445",
+            "localidad" : "Temperley",
+            "abono" : "7000" 
+        },
+        {
+            "cliente" : "Radiadores Navarro",
+            "direccion" : "Oliden 2871",
+            "localidad" : "Lanus Oeste",
+            "abono" : "6000" 
+        }, 
+        {
+            "cliente" : "Chavez Graciela",
+            "direccion" : "Magdalena 1642",
+            "localidad" : "Lanus Este",
+            "abono" : "7000" 
+        }, 
+        {
+            "cliente" : "Buruffaldi Javier",
+            "direccion" : "2 de Mayo 2960",
+            "localidad" : "Lanus Oeste",
+            "abono" : "6000" 
+        },
+        {
+            "cliente" : "Empanadas Ricatti",
+            "direccion" : "Boedo 510",
+            "localidad" : "Lomas de Zamora",
+            "abono" : "7000" 
+        },
+        {
+            "cliente" : "Pellegrino Juan",
+            "direccion" : "Hipolito Yrigoyen 3287 ",
+            "localidad" : "Lanus Oeste",
+            "abono" : "6000" 
+        },
+        {
+            "cliente" : "Guzelj Irma",
+            "direccion" : "Darwin 1211",
+            "localidad" : "Lomas de Zamora",
+            "abono" : "5000" 
+        }
+    ]   
+}
+
